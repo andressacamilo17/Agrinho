@@ -1,0 +1,145 @@
+*{
+    padding:0;
+    margin: 0;
+
+}
+header{background-color: rgb(55, 105, 74);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.Cabeçalho-imagem{
+    width: 14%;
+}
+.Cabeçalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+font-size: 24px 0;
+} 
+
+.tecnologia-imagem{
+    width: 24%;
+}
+.tecnologia{
+    background-image: rgb(23, 126, 23);
+    color: rgb(5, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.tecnologia-div-conteudo{
+width: 35;
+}
+.tecnologia-titulo{
+    padding: 20px 0;
+    margin: 0 16px;
+
+}
+.tecnologia-subtitulo{
+    padding: 24px 0;
+    margin: 0 16px;
+
+}
+.tecnologia-texto-um{
+    padding: 24px 0;
+    font-size: 20px;
+    margin: 0 16px;
+
+}
+.tecnologia-texto-dois{
+    padding: 24px 0;
+    font-size: 20px;
+    margin: 0 16px;
+
+}
+.tecnologia-imagem{
+    width: 24%;
+}
+.agricultura{
+    background-image: rgb(47, 78, 16);
+    color: darkslategrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    margin: 0 16px;
+
+}
+.agricultura-imagem-um{
+    width: 24%;
+    margin: 0 16px;
+}
+
+
+.agricultura-div-conteudo{
+    width: 35;
+}
+.agricultura-titulo{
+    padding: 20px 0;
+    margin: 0 16px;
+
+}
+.agricultura-subtitulo{
+    padding: 30px 0;
+    margin: 0 16px;
+
+}
+.agricultura-texto-um{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.agricultura-texto-dois{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.agricultura-precisao{
+    background-image: rgb(47, 78, 16);
+    color: rgb(10, 12, 12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.agricutura-precisao-div-conteudo{
+    width: 35;
+}
+.agricultura-precisao-titulo{
+    padding: 20px 0;
+    margin: 0 16px;
+}
+.agricultura-precisao-texto-um{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.agricultura-precisao-texto-dois{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.agricultura-precisao-texto-tres{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.agricultura-precisao-imagem-um{
+    width: 24%;
+    margin: 0 16px;
+}
+.agricultura-precisao-imagem-dois{
+    width: 20%;
+}
+.rodape{
+background-color: black;
+text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
