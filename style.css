@@ -155,7 +155,7 @@ width: 35;
 .agricultura-precisao-imagem-dois{
     width: 20%;
 }
-.container-botao{
+.container-botao-um{
 
     background-color: var(--botao-azul);
     border-radius: 5px;
@@ -164,6 +164,21 @@ width: 35;
     display: block;
     text-decoration: none;
 }
+
+
+
+
+
+.container-botao-dois{
+
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+}
+
 
 .rodape{
 background-color: black;
