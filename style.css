@@ -70,8 +70,8 @@ width: 35;
     width: 24%;
 }
 .agricultura{
-    background-image: rgb(47, 78, 16);
-    color: darkslategrey;
+    background-image: rgb(97, 149, 44);
+    color: rgb(34, 126, 126);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -110,7 +110,7 @@ width: 35;
 }
     .container-botao{
 
-        background-color: var(--botao-azul);
+        background-color: var(--cor-de-fundo);
         border-radius: 5px;
         padding: 1em;
         color: var(--branco-principal);
@@ -156,22 +156,34 @@ width: 35;
     width: 20%;
 }
 .container-botao-um{
-
-    background-color: var(--botao-azul);
+    background-color: var(--cor-de-fundo);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
 }
-
-
-
-
+.perguntas{
+    background-image: rgb(47, 78, 16);
+    color: rgb(46, 148, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.perguntas-titulo{
+    padding: 20px 0;
+    margin: 0 16px;
+}
+.perguntas-texto{
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 20px;
+}
 
 .container-botao-dois{
 
-    background-color: var(--botao-azul);
+    background-color: var(--cor-de-fundo);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
