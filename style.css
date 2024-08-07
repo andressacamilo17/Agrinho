@@ -14,7 +14,7 @@
 
 }
 header{
-    background:#002400 ;
+    background:#0d1f0a ;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -41,7 +41,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
     width: 24%;
 }
 .tecnologia{
-    background-image: linear-gradient(#002400,#053b03);
+    background-image: linear-gradient(#002400,#053b03,#083a05);
     color:white;
     display: flex;
     justify-content: center;
@@ -71,17 +71,12 @@ width: 35;
     margin: 0 16px;
 
 }
-.tecnologia-texto-dois{
-    padding: 24px 0;
-    font-size: 20px;
-    margin: 0 16px;
 
-}
 .tecnologia-imagem{
     width: 24%;
 }
 .agricultura{
-    background-image: linear-gradient(#0a5206,#106809);
+    background-image: linear-gradient(#193e13,#0a5206,#0e4f09);
     
     color:white;
     display: flex;
@@ -124,11 +119,6 @@ width: 35;
     font-size: 20px;
 }
 
-.agricultura-texto-dois{
-    padding: 24px 0;
-    margin: 0 16px;
-    font-size: 20px;
-}
 
     .container-botao{
         background-color:var(--cor-de-fundo);
@@ -138,12 +128,12 @@ width: 35;
         display: block;
         text-decoration: none;
         font-family: Arial, Helvetica, sans-serif;
-
+       
        
     }
 
 .agricultura-precisao{
-  background-color: rgb(19, 75, 19);
+  background-image: linear-gradient(#0e4f09,#14670d,#1b7f12);
     color:white;
     display: flex;
     justify-content: center;
@@ -175,11 +165,6 @@ width: 35;
     font-size: 20px;
 }
 
-.agricultura-precisao-texto-tres{
-    padding: 20px 0;
-    margin: 0 16px;
-    font-size: 20px;
-}
 
 .container-botao-um{
     background-color: var(--cor-de-fundo);
@@ -201,7 +186,7 @@ width: 35;
 }
 
 .perguntas{
-    background-color: rgb(19, 79, 19);
+    background-image: linear-gradient(#1c7f12,#2e8e22,#3f9e31);
     color:white;
     display: flex;
     justify-content: center;
