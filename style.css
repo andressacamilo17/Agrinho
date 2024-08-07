@@ -88,8 +88,8 @@ width: 35;
 
 }
 .agricultura-imagem-um{
-    width: 24%;
-    margin: 0 16px;
+    width: 16%;
+    margin: 0 10px;
 }
 
 
@@ -159,12 +159,6 @@ width: 35;
     font-size: 20px;
 }
 
-.agricultura-precisao-texto-dois{
-    padding: 24px 0;
-    margin: 0 16px;
-    font-size: 20px;
-}
-
 
 .container-botao-um{
     background-color: var(--cor-de-fundo);
@@ -177,7 +171,7 @@ width: 35;
 }
 
 .agricultura-precisao-imagem-um{
-    width: 24%;
+    width: 16%;
     margin: 0 16px;
 }
 
@@ -212,7 +206,6 @@ width: 35;
     text-decoration: none;
   
 }
-
 
 .rodape{
 background-color: black;
