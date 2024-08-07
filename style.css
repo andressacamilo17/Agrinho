@@ -13,7 +13,7 @@
     margin: 0;
 
 }
-header{background-color: rgb(55, 105, 74);
+header{background-color: rgb(34, 77, 50);
     color: aliceblue;
     display: flex;
     justify-content: space-around;
@@ -25,6 +25,7 @@ header{background-color: rgb(55, 105, 74);
     width: 14%;
 }
 .Cabeçalho-lista-item{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 display: inline-block;
 margin: 0 16px;
 font-size: 24px 0;
@@ -34,7 +35,7 @@ font-size: 24px 0;
     width: 24%;
 }
 .tecnologia{
-    background-image: rgb(23, 126, 23);
+    background-color:rgb(32, 75, 48) ;
     color: rgb(5, 1, 1);
     display: flex;
     justify-content: center;
@@ -45,11 +46,13 @@ font-size: 24px 0;
 width: 35;
 }
 .tecnologia-titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px 0;
     margin: 0 16px;
 
 }
 .tecnologia-subtitulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 24px 0;
     margin: 0 16px;
 
@@ -70,13 +73,13 @@ width: 35;
     width: 24%;
 }
 .agricultura{
-    background-image: rgb(97, 149, 44);
+    background-color: rgb(31, 80, 50);
     color: rgb(34, 126, 126);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
-    margin: 0 16px;
+    padding:24px 0;
+   
 
 }
 .agricultura-imagem-um{
@@ -89,11 +92,13 @@ width: 35;
     width: 35;
 }
 .agricultura-titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px 0;
     margin: 0 16px;
 
 }
 .agricultura-subtitulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 30px 0;
     margin: 0 16px;
 
@@ -119,17 +124,19 @@ width: 35;
     }
 
 .agricultura-precisao{
-    background-image: rgb(47, 78, 16);
+  background-color: rgb(31, 80, 50);
     color: rgb(10, 12, 12);
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    
 }
 .agricutura-precisao-div-conteudo{
     width: 35;
 }
 .agricultura-precisao-titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px 0;
     margin: 0 16px;
 }
@@ -156,15 +163,15 @@ width: 35;
     width: 20%;
 }
 .container-botao-um{
-    background-color: var(--cor-de-fundo);
-    border-radius: 5px;
-    padding: 1em;
-    color: var(--branco-principal);
-    display: block;
-    text-decoration: none;
+  background-color: var(--cor-de-fundo);
+  border-radius: 5px;
+  padding: 5px;
+  color: var(--branco-principal);
+  display:block;
+  text-decoration: none;
 }
 .perguntas{
-    background-image: rgb(47, 78, 16);
+    background-color: rgb(31, 80, 50);
     color: rgb(46, 148, 148);
     display: flex;
     justify-content: center;
@@ -172,10 +179,12 @@ width: 35;
     padding: 24px 0;
 }
 .perguntas-titulo{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px 0;
     margin: 0 16px;
 }
 .perguntas-texto{
+    font-family: initial;
     padding: 24px 0;
     margin: 0 16px;
     font-size: 20px;
